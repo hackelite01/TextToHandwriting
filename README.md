@@ -18,7 +18,7 @@ Checkout [Contribution Guide](CONTRIBUTING.md) for local setup and contribution 
 - [jsPDF](https://github.com/MrRio/jsPDF) - To generate PDF from images.
 - [cypress](https://github.com/cypress-io/cypress) - Testing Library
 - [serve](https://github.com/zeit/serve) - Start local server
- ![Profile views](https://gpvc.arturio.dev/hackelite01/)
+
 ---
 
 Bye!
