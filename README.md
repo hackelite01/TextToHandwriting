@@ -1,4 +1,4 @@
- I hate writing assignments so I made this tool that converts text to an image that looks like handwriting😜
+ I hate writing assignments so I made this tool that converts text to an image that looks like handwriting鈥�0聛4
 
 </p>
 
@@ -18,7 +18,7 @@ Checkout [Contribution Guide](CONTRIBUTING.md) for local setup and contribution 
 - [jsPDF](https://github.com/MrRio/jsPDF) - To generate PDF from images.
 - [cypress](https://github.com/cypress-io/cypress) - Testing Library
 - [serve](https://github.com/zeit/serve) - Start local server
-
+ ![Profile views](https://gpvc.arturio.dev/hackelite01/TextToHandwriting)
 ---
 
 Bye!
