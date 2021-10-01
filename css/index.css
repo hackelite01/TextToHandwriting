@@ -368,21 +368,7 @@ body.dark .github-corner {
     margin: 0px 10px;
   }
 
-  .project-contributors {
-    width: 100%;
-    overflow-x: scroll;
-    overflow-y: hidden;
-    white-space: nowrap;
-  }
-
-  .contributor-profile {
-    width: 7.5em;
-    height: 150px;
-  }
-
-  .contributor-username {
-    font-size: 9pt;
-  }
+   
 }
 
 fieldset {
