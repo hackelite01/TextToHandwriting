@@ -1,4 +1,4 @@
- I hate writing assignments so I made this tool that converts text to an image that looks like handwriting•04
+ I hate writing assignments so I made this tool that converts text to an image that looks like handwriting ✍️
 
 </p>
 
